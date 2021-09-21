@@ -49,7 +49,7 @@ class OperacionResta implements Operacion {
 }
 
 // Prueba del código
-// Luigi cambia aqui en lugar del comentario pon "Comprobando la clase suma"
+// Comprobando la clase 'Suma'
 console.log('Usando clase Suma');
 const suma: Calculadora = new Suma();
 suma.mostrarResultado(10, 5);
