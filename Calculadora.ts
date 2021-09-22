@@ -54,7 +54,7 @@ console.log('Usando clase Suma');
 const suma: Calculadora = new Suma();
 suma.mostrarResultado(10, 5);
 
-// Charlie cambia aqui en lugar del comentario pon "Comprobando la clase resta"
+//Comprobando la clase resta
 console.log('Usando clase Resta');
 const resta: Calculadora = new Resta();
 resta.mostrarResultado(10, 5);
