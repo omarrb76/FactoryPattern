@@ -52,14 +52,3 @@ console.log('');
 
 const traductor = new Traductor(secreto);
 clientCode(traductor);
-
-// let first = "Texto codificado e incomprensible";
-// let second = "";
-
-// for(let i = 0; i< first.length; i++){
-//     let char = first.charCodeAt(i);
-//     char++;
-//     second += String.fromCharCode(char);
-// }
-
-// console.log(first,second);
