@@ -49,12 +49,12 @@ class OperacionResta implements Operacion {
 }
 
 // Prueba del código
-// Luigi cambia aqui en lugar del comentario pon "Comprobando la clase suma"
+// Comprobando la clase suma
 console.log('Usando clase Suma');
 const suma: Calculadora = new Suma();
 suma.mostrarResultado(10, 5);
 
-// Charlie cambia aqui en lugar del comentario pon "Comprobando la clase resta"
+// Comprobando la clase resta
 console.log('Usando clase Resta');
 const resta: Calculadora = new Resta();
 resta.mostrarResultado(10, 5);
