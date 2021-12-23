@@ -58,5 +58,3 @@ suma.mostrarResultado(10, 5);
 console.log('Usando clase Resta');
 const resta: Calculadora = new Resta();
 resta.mostrarResultado(10, 5);
-
-console.log("Hola mundo");
